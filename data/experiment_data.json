@@ -1,0 +1,554 @@
+[
+  {
+    "question": "A Level III video editor takes $18$ hours to add special effects to a movie. A Level II video editor takes $26$ hours and a Level I video editor takes $34$ hours. Find how long it would take them to add the special effects if they all work together. Answer: [ANS] hours",
+    "answer": [
+      "8.10183"
+    ],
+    "id": 910
+  },
+  {
+    "question": "Are the functions given below power functions? Answer T (true) or F (false).\n[ANS] 1. $y=3x^3+2x^2$ [ANS] 2. $y=2/(x^3)$ [ANS] 3. $y=x^3/2$ [ANS] 4. $y=14x^{12}$ [ANS] 5. $y=\\sqrt{4x^4}$ [ANS] 6. $y=12 \\cdot 14^x$",
+    "answer": [
+      "F",
+      "T",
+      "T",
+      "T",
+      "T",
+      "F"
+    ],
+    "id": 308
+  },
+  {
+    "question": "It takes Kate k days to write a GRE math practice test. It takes John j days to write a GRE math practice test. If Kate and John work on a practice test in alternating 2-day shifts, it takes them 10 days when Kate starts and 10.5 days when John starts. How long would it take the two to complete a practice test if Kate and John worked simultaneously?",
+    "options": [
+      "13/2 days",
+      "12/3 days",
+      "10 days",
+      "8 days",
+      "9/2 days",
+      "36/7 days",
+      "11/2 days",
+      "5 days",
+      "7 days",
+      "41/8 days"
+    ],
+    "answer": "F",
+    "id": 54
+  },
+  {
+    "question": "A rod Ab of length 15 cm rests in between two coordinate axes in such a way that the end point A lies on x-axis and ens point B lies on y-axis. A point P(x, y) is taken on the rod in such a way that AP = 6 cm. The locus of P is",
+    "options": [
+      "a parabola",
+      "an ellipse",
+      "a circle",
+      "a hyperbola",
+      "hyperbola"
+    ],
+    "answer": "C",
+    "id": 830
+  },
+  {
+    "question": "Consider the following data set. Find the mean and standard deviation. Data set: 69, 72, 79, 47, 50, 68, 68\nMean: [ANS]\nStandard deviation: [ANS]",
+    "answer": [
+      "64.7142857142857",
+      "11.7432858223226"
+    ],
+    "id": 925
+  },
+  {
+    "question": "Find the exact value of each:\na) $\\tan{\\left(\\frac{5 \\pi}{3} \\right)}$=[ANS]\nb) $\\tan{\\left(\\frac{7 \\pi}{6} \\right)}$=[ANS]\nc) $\\cot{\\left(\\frac{5 \\pi}{4} \\right)}$=[ANS]\nd) $\\sec{\\left(\\frac{4 \\pi}{3} \\right)}$=[ANS]\ne) $\\csc{\\left(\\frac{\\pi}{3} \\right)}$=[ANS]",
+    "answer": [
+      "-sqrt(3)",
+      "1/sqrt(3)",
+      "1",
+      "-2",
+      "2/sqrt(3)"
+    ],
+    "id": 339
+  },
+  {
+    "question": "The following logical calculus, what is correct?",
+    "options": [
+      "1+1=2",
+      "2*2=1",
+      "2+3=7",
+      "2-2=2",
+      "0+0=1",
+      "1+1=1",
+      "1·B = 1",
+      "1+B=2",
+      "3-1=3",
+      "1/1=2"
+    ],
+    "answer": "F",
+    "id": 154
+  },
+  {
+    "question": "Consider a triangle $\\triangle HGU$. The centroid is denoted by $B$, while $X$ represents the incenter. The angles at vertices $H$ and $G$ are labeled as $N$ and $J$ respectively. Given that the line segment $XB$ runs parallel to side $HG$, and $J$ is equal to $2 \\arctan (1/3)$, determine the value of $N$.",
+    "options": [
+      "\\frac{\\pi}{4}",
+      "\\frac{\\pi}{3}",
+      "\\frac{3\\pi}{8}",
+      "\\frac{3\\pi}{4}",
+      "\\frac{\\pi}{6}",
+      "\\frac{\\pi}{5}",
+      "\\frac{\\pi}{2}"
+    ],
+    "answer": "G",
+    "id": 974
+  },
+  {
+    "question": "The function \\( y = \\arcsin \\left( C_2 e^x \\right) + C_1 \\) satisfies a differential equation ( ).",
+    "options": [
+      "\\( y'' = (y')^3 + 3y' \\)",
+      "\\( y'' = (y')^3 - 2y' \\)",
+      "\\( y'' = (y')^2 + y' \\)",
+      "\\( y'' = (y')^3 + y' \\)",
+      "\\( y'' = (y')^3 + 2y' \\)",
+      "\\( y'' = y' + x \\)",
+      "\\( y^3 y'' + 1 = 0 \\)",
+      "\\( y'' = (y')^3 - y' \\)",
+      "\\( y'' = (y')^3 + 2 \\)",
+      "\\( y'' = \frac{1}{1 + x^2} \\)"
+    ],
+    "answer": "D",
+    "id": 129
+  },
+  {
+    "question": "Let $y_{1}=2 x-\\mathrm{e}^{x}, y_{2}=2 x+\\mathrm{e}^{x}$ be two particular solutions for the differential equation $y^{\\prime}+a \\left( x \\right) y=b \\left( x \\right)$, then () is right.",
+    "options": [
+      "$$a \\left( x \\right)=-1, b \\left( x \\right)=2 x-\\mathrm{e}^{x}$$",
+      "$$a \\left( x \\right)=1, b \\left( x \\right)=2+2 \\mathrm{e}^{x}$$",
+      "$$a \\left( x \\right)=1, b \\left( x \\right)=2+2 x$$",
+      "$$a \\left( x \\right)=-1, b \\left( x \\right)=2+2 x$$",
+      "$$a \\left( x \\right)=-1, b \\left( x \\right)=2+2 \\mathrm{e}^{x}$$",
+      "$$a \\left( x \\right)=1, b \\left( x \\right)=2-2 x$$",
+      "$$a \\left( x \\right)=-1, b \\left( x \\right)=2-2 \\mathrm{e}^{2x}$$",
+      "$$a \\left( x \\right)=-1, b \\left( x \\right)=2-2 \\mathrm{e}^{x}$$",
+      "$$a \\left( x \\right)=-1, b \\left( x \\right)=2-2 x$$",
+      "$$a \\left( x \\right)=-1, b \\left( x \\right)=\\mathrm{e}^{x}-2 x$$"
+    ],
+    "answer": "I",
+    "id": 403
+  },
+  {
+    "question": "World oil consumption can be estimated to be approximately 75.974 million barrels per day in 2003 and to be increasing at approximately 0.3 percent per year. Let $c_n$ be the daily world oil consumption (in millions of barrels per day) $n$ years after 2003. A. Find a formula for $c_n$: $c_n$=[ANS]\nB. Find $c_n-c_{n-1}$: $c_n-c_{n-1}$=[ANS]\n(Be sure that you can interpret what this difference means in practical terms.) (Be sure that you can interpret what this difference means in practical terms.)",
+    "answer": [
+      "75.974*(1 + 0.3/100)^n",
+      "75.974*((1 + 0.3/100)^(n-1))*(0.3/100)"
+    ],
+    "id": 648
+  },
+  {
+    "question": "An integer $n$ is fixed with respect to $m$ if $n$ and $n^2$ leave the same remainder when divided by $m.$ Let $M$ be the largest integer such that $1000$ is fixed with respect to $M.$ Find the number of positive integer divisors of $M.$",
+    "options": [
+      "129",
+      "130",
+      "122",
+      "119",
+      "112",
+      "121",
+      "120",
+      "128",
+      "126",
+      "124"
+    ],
+    "answer": "H",
+    "id": 121
+  },
+  {
+    "question": "The following polar equation describes a circle in rectangular coordinates: r=14\\cos\\theta Locate its center on the $xy$-plane, and find the circle's radius. $(x_0,y_0)=$ ([ANS], [ANS]) $R=$ [ANS]",
+    "answer": [
+      "7",
+      "0",
+      "7"
+    ],
+    "id": 237
+  },
+  {
+    "question": "The expression \\sqrt[5]{x^5 y^4}=x^ry^s where $x$ and $y$ are non-negative real numbers. r, the exponent of x, is: [ANS]\ns, the exponent of y, is: [ANS]",
+    "answer": [
+      "1",
+      "0.8"
+    ],
+    "id": 866
+  },
+  {
+    "question": "Let $N$ be the positive integer with 1998 decimal digits, all of them 1; that is, \\[N=1111\\cdots 11.\\] Find the 1000th digit after the decimal point of $\\sqrt N$.",
+    "options": [
+      "8",
+      "0",
+      "1",
+      "2",
+      "5",
+      "9",
+      "3",
+      "4",
+      "7",
+      "6"
+    ],
+    "answer": "C",
+    "id": 332
+  },
+  {
+    "question": "Given that $x=1$ is a zero of the polynomial $P(x)=8x^3-8x^2-32x+32$, find all other zeros of the polynomial $P(x)$. The other zeros of $P(x)$ are $x=$ [ANS].   If there are multiple zeros, separate the different zeros by commas.",
+    "answer": [
+      "(2, -2)"
+    ],
+    "id": 62
+  },
+  {
+    "question": "A queen termite produces $80640$ eggs every week. How many eggs does the queen produce every minute? Solution: The queen termite produces [ANS] eggs every minute.",
+    "answer": [
+      "8"
+    ],
+    "id": 413
+  },
+  {
+    "question": "Your father is planning to cook for 35 people using a recipe that specifies one and three quarter cups of sugar for each four people. For the larger group, your father will require [ANS] cups of sugar. When necessary, round to three decimal places. When necessary, round to three decimal places.",
+    "answer": [
+      "15.3125"
+    ],
+    "id": 363
+  },
+  {
+    "question": "Use the properties of exponents to simplify the following\n$\\frac{{18^{16}}}{{18^{10}}}=$ [ANS]",
+    "answer": [
+      "18^6"
+    ],
+    "id": 930
+  },
+  {
+    "question": "Use a graphing calculator to find all solutions to the equation\n3^{-x}=x-2\nGive the solutions as a comma separated list, with each value correct to two decimal places. If there are no solutions, enter None. [ANS]",
+    "answer": [
+      "2.09959521978367"
+    ],
+    "id": 150
+  },
+  {
+    "question": "Find all angles $x$ (in radians) that satisfy the equation \\cos\\!\\left(x\\right)\\tan\\!\\left(x\\right)+\\sqrt{3}\\cos\\!\\left(x\\right)=0. Your answers should be formulas that look like x=\\text{angle}+k*\\text{period} where $k=\\cdots,-2,-1,0,1,2,\\cdots$ ranges over the integers, $0\\leq \\text{angle} < \\text{period}$, and period is the smallest positive \"period\" that makes the formula work. Note: decimal answers are not allowed, so, for example, if $\\pi$ appears in your answer call it pi not 3.14159. The solutions of the equation are: $x$=[ANS]\n(Warning: division by zero is not allowed!)",
+    "answer": [
+      "2*pi/3+k*pi"
+    ],
+    "id": 1122
+  },
+  {
+    "question": "In a given hypothesis test, the null hypothesis can be rejected at the 0.10 and the 0.05 level of significance, but cannot be rejected at the 0.01 level. The most accurate statement about the $p-$ value for this test is: [ANS] A. $0.01 < p\\mbox{-value} < 0.05$  B. $0.05 < p\\mbox{-value} < 0.10$  C. $p\\mbox{-value}=0.10$  D. $p\\mbox{-value}=0.01$\nIf we do not reject the null hypothesis, we conclude that: [ANS] A. the test is statistically insignificant at whatever level of significance the tested  B. there is enough statistical evidence to infer that the alternative hypothesis is true  C. there is not enough statistical evidence to infer that the alternative hypothesis is true  D. there is enough statistical evidence to infer that the null hypothesis is true",
+    "answer": [
+      "A",
+      "C"
+    ],
+    "id": 434
+  },
+  {
+    "question": "This question concerns the model X(t)=0.5X(t-1)+Z(t)-Z(t-1)+Z(t-2) in which $Z(t)$ is white noise whith mean 0 and variance $\\sigma^2$. It is assumed that $E(X(t))=0$ for all t.\nPart (a) Is this model stationary? [ANS] A. Impossible to determine.  B. No.  C. Yes.\nPart (b) Show the following: E(X(t)Z(t))=\\sigma^2 E(X(t)Z(t-1))=-0.5\\sigma^2 E(X(t)Z(t-2))=0.75\\sigma^2 [ANS]\nPart (c) With $\\gamma(k)=E(X(t)X(t-k)),$ show that \\gamma(0)=0.5\\gamma(1)+2.25 \\sigma^2, \\gamma(1)=0.5\\gamma(0)-1.5\\sigma^2. [ANS]\nPart (d) Find the variance of $X(t)$ in terms of $\\sigma^2$, and the autocorrelation function of $X(t)$ at lag 1. [ANS]\nPart (e) Writing the model in the form X(t)=\\sum_{j=1}^{\\infty} \\psi_j Z(t-j) find $\\psi_0, \\psi_1, \\psi_2.$ [ANS] [ANS] [ANS]\nPart (f) After de-trending the data, a environmental scientist fits the model to the daily noon temparatures (in Celsius) in Whitehorse over sixty consecutive days. A portion of the data $x(t)$ and the fitted values $\\hat{x}(t)$ are given below (to 2 decimal places):\n\\begin{array}{c|ccc} t & x(t) & \\hat{x}(t) \\\\ \\hline 2 &-0.13 & 0.12 \\\\ \\vdots & \\vdots & \\vdots \\\\ 57 &-2.00 & 1.02 \\\\ 58 &-0.51 & 1.91 \\\\ 59 &-1.04 &-0.85 \\\\ 60 &-5.22 &-2.75 \\end{array} Use the model and the above information to forecast the next two values of the time series, showing your working clearly. [ANS] [ANS]\nPart (g) Given that the estimate of from the fitted model is 1.01, provide approximate 95\\% confidence intervals for each of your forecasts in (f). [ANS]",
+    "answer": [
+      "C",
+      "0",
+      "0",
+      "-0.25",
+      "1",
+      "-0.5",
+      "0.75",
+      "-0.33",
+      "-2.64",
+      "0"
+    ],
+    "id": 587
+  },
+  {
+    "question": "Hannah is stenciling a border on a wall. She plans to repeat picture a tulib, a daisy, a rose, and a lily in that order, as shown below tulip, daisy, rose, lily, tulip, daisy, rose, lily,... The first flower Hannah stencils is a tulip. What will be the 30th flower she stencils? [ANS] A. rose  B. tulip  C. daisy  D. lily",
+    "answer": [
+      "C"
+    ],
+    "id": 1084
+  },
+  {
+    "question": "a) John has 136 marbles. If he gives all of his marbles to each of his 8 friends and gives the same number to each friend then each friend will receive [ANS] marbles. b) Mary's Bakery delivers a selection of cakes to its 7 customers. Each customer receives the name number of cakes. She loads the delivery truck with 126 cakes so that each customer will receive [ANS] cakes. c) Jesse's zoo has 5 monkeys. Each morning he brings a total of 80 bananas which are shared equally by his monkeys. Each monkey gets [ANS] of the bananas. d) Oswald mother gave him 6 anteaters. Each day exactly 102 ants try to eat the crumbs on Oswalds floor. The anteaters eat all of those ants, being very careful to share equally. So each anteater eats exactly [ANS] ants.",
+    "answer": [
+      "17",
+      "18",
+      "16",
+      "17"
+    ],
+    "id": 242
+  },
+  {
+    "question": "We now define an algorithm: The definition of a(n) is the sequence of denominators obtained by listing the positive rational numbers less than or equal to 1 in simplest form with denominators in increasing order. Given the input x_list (a series of values): [68, 69, 70, 71, 72, 73, 74, 75, 76, 77], determine the corresponding output sequence y_list.",
+    "options": [
+      "[14, 14, 14, 14, 14, 14, 14, 14, 14, 14]",
+      "[13, 13, 13, 13, 13, 13, 13, 13, 13, 13]",
+      "[23, 23, 23, 23, 24, 24, 24, 24, 24, 24]",
+      "[17, 17, 17, 17, 18, 18, 18, 18, 18, 18]",
+      "[20, 20, 20, 20, 21, 21, 21, 21, 21, 21]",
+      "[12, 12, 12, 12, 12, 12, 12, 12, 12, 12]",
+      "[19, 19, 19, 19, 19, 19, 19, 19, 19, 19]",
+      "[15, 15, 15, 15, 16, 16, 16, 16, 16, 16]",
+      "[21, 21, 21, 21, 21, 21, 21, 21, 21, 21]",
+      "[22, 22, 22, 22, 23, 23, 23, 23, 23, 23]"
+    ],
+    "answer": "H",
+    "id": 891
+  },
+  {
+    "question": "Puddles the Frog has a row of $n \\geq 2$ lilypads, labeled $1$ through $n$, with $1$ unit between consecutive lilypads. He is at lilypad $1$, and wishes to visit lilypads $2$ through $n$ once each, before ending up back at lilypad $1$. However, he may jump no more than $3$ units at a time. Let $f(n)$ be the maximum total distance of Puddles's trip, starting from lilypad $1$ and ending back at lilypad $1$. Determine the value of\n\\[\n\\lim_{n \\to \\infty} \\frac{f(n)}{n}.\n\\]",
+    "answer": "14/5",
+    "id": 841
+  },
+  {
+    "question": "A concert venue sold 2125 tickets one evening. Tickets cost $\\$35.00$ for a covered pavilion seat and $\\$20.00$ for a lawn seat. Total receipts were $\\$55{,}625.00$. How many of each type of ticket were sold? Lawn tickets: [ANS]\nPavilion tickets: [ANS]",
+    "answer": [
+      "1250",
+      "875"
+    ],
+    "id": 38
+  },
+  {
+    "question": "In the early 1960s, radioactive strontium-90 was released during atmospheric testing of nuclear weapons and got into the bones of people alive at the time. If the half-life of strontium-90 is 31 years, what fraction of the strontium-90 absorbed in 1963 remained in people's bones in 1999? fraction=[ANS]\n(Enter your answer as a decimal or fraction.) (Enter your answer as a decimal or fraction.)",
+    "answer": [
+      "(1/2)^[(1999-1963)/31]"
+    ],
+    "id": 8
+  },
+  {
+    "question": "Use divergence therem to evaluate $\\iint_S \\vec{F} \\cdot d \\vec{S}$ where $\\vec{F} = yx^2 \\vec{i} + (xy^2 - 3z^4)\\vec{j} + (x^3+y^3)\\vec{k}$ and the surface $S$ consists of the sphere of radius 4 with $z \\le 0$ and $y \\le 0$. Note all three surfaces of this solid are included in $S$.",
+    "options": [
+      "5.0",
+      "1.0",
+      "0.0",
+      "-3.0",
+      "3.0",
+      "-1.0",
+      "-4.0",
+      "-2.0",
+      "2.0",
+      "4.0"
+    ],
+    "answer": "C",
+    "id": 1023
+  },
+  {
+    "question": "Add:\n$\\begin{array}{ccccccc}\\hline 788 & & 872 & & 467 & & 448 \\\\ \\hline+669 & &+715 & &+675 & &+928 \\\\ \\hline & & & & & & \\\\ \\hline [ANS] & & [ANS] & & [ANS] & & [ANS] \\\\ \\hline \\end{array}$",
+    "answer": [
+      "1457",
+      "1587",
+      "1142",
+      "1376"
+    ],
+    "id": 331
+  },
+  {
+    "question": "Let {X_n: n \\geq 1} be independent, identically distributed random variables taking integer values {1,-1}. Let S_0=0, S_n=\\sum_{i=1}^n X_i. Let P(X_i=1)=0.8 and P(X_i=-1)=0.2. The range R_n of S_0,S_1,...,S_n is the number of distinct values taken by the sequence. Then what is the limit of n^{-1}E[R_n] as n goes to infinity? Here E[R_n] is the expectation over the random variable R_n.",
+    "options": [
+      "0.2",
+      "0.9",
+      "1.6",
+      "1.2",
+      "0.6",
+      "1.0",
+      "0.8",
+      "0.5",
+      "0.4",
+      "1.4"
+    ],
+    "answer": "E",
+    "id": 223
+  },
+  {
+    "question": "Enter a T or an F in each answer space below to indicate whether the corresponding statement is true or false. You must get all of the answers correct to receive credit. [ANS] 1. A function cannot be both even and odd. [ANS] 2. The composition of an odd function and an odd function is even [ANS] 3. The composition of an even and an odd function is even [ANS] 4. The sum of an even and an odd function is usually neither even or odd, but it may be even. [ANS] 5. The sum of two even functions is even [ANS] 6. The product of two even function is even [ANS] 7. The product of two odd function is odd [ANS] 8. The ratio of two odd functions is odd\nAll of the answers must be correct before you get credit for the problem.",
+    "answer": [
+      "F",
+      "F",
+      "T",
+      "T",
+      "T",
+      "T",
+      "F",
+      "F"
+    ],
+    "id": 550
+  },
+  {
+    "question": "Evaluate this expression:\n${8-4(-4)4=}$ [ANS]",
+    "answer": [
+      "72"
+    ],
+    "id": 529
+  },
+  {
+    "question": "Write a quadratic function that has roots of 27 and P.\n$f(m)=$ [ANS]",
+    "answer": [
+      "(m - 27)*(m-P)"
+    ],
+    "id": 157
+  },
+  {
+    "question": "Let \\( n \\) be any positive integer, and alpha be a real number, then\n$$\n[ \\alpha]+\\left[ \\alpha+\\frac{1} {n} \\right]+\\cdots+\\left[ \\alpha+\\frac{n-1} {n} \\right]=?\n$$",
+    "options": [
+      "$$\n\\left[ n + \\alpha \\right]\n$$",
+      "$$\n( \\alpha n )\n$$",
+      "$$\n[ n \\alpha]\n$$",
+      "$$\n\\left( n \\alpha \\right)\n$$",
+      "$$\nn \\left( \\alpha \\right)\n$$",
+      "$$\n[ \\alpha + n]\n$$",
+      "$$\n(n \\alpha)\n$$",
+      "$$\n[ \\alpha n]\n$$",
+      "$$\nn \\left[ \\alpha \\right]\n$$"
+    ],
+    "answer": "C",
+    "id": 53
+  },
+  {
+    "question": "Integral $int_{0}^{4}{frac{sqrt{x}}{1+xsqrt{x}}}dx=$",
+    "options": [
+      "$frac{4}{3}ln 2$",
+      "$frac{3}{4}ln 3$",
+      "$frac{4}{3}ln 9$",
+      "$frac{4}{3}ln 4$",
+      "$frac{2}{3}ln 9$",
+      "$frac{5}{3}ln 3$",
+      "$0$",
+      "$frac{2}{3}ln 3$",
+      "$frac{4}{3}ln 3$",
+      "$frac{3}{2}ln 3$"
+    ],
+    "answer": "I",
+    "id": 48
+  },
+  {
+    "question": "Find the Taylor polynomial $P_{5}$ for the function $f(x) = x \\cdot \\cos\\left(x^2\\right)$.",
+    "options": [
+      "x - \\frac{1}{3} \\cdot x^4",
+      "x - \\frac{1}{4} \\cdot x^6",
+      "x - \\frac{1}{2} \\cdot x^6",
+      "x - \\frac{1}{5} \\cdot x^5",
+      "x - \\frac{1}{2} \\cdot x^4",
+      "x - \\frac{1}{3} \\cdot x^6",
+      "x - \\frac{1}{2} \\cdot x^5",
+      "x - \\frac{1}{4} \\cdot x^5",
+      "x - \\frac{1}{6} \\cdot x^5",
+      "x - \\frac{1}{3} \\cdot x^5"
+    ],
+    "answer": "G",
+    "id": 364
+  },
+  {
+    "question": "The volume of the solid of revolution obtained by rotating the figure enclosed by the parabola \\( y^2 = 4ax \\) and the line \\( x = x_0 \\) (where \\( x_0 > 0 \\)) around the x-axis is \\( = \\).",
+    "options": [
+      "\\(\\frac{6}{3} a^2\\)",
+      "\\(\\frac{12}{3} a^2\\)",
+      "\\(\frac{32}{3} a^2\\)",
+      "\\(\\frac{8}{3} a^2\\)",
+      "\\(\\frac{14}{3} a^2\\)",
+      "\\(\frac{16}{3} a^2\\)",
+      "\\(\\frac{9}{3} a^2\\)",
+      "\\(\\frac{10}{3} a^2\\)",
+      "\\(\\frac{7}{3} a^2\\)",
+      "\\(\frac{4}{3} a^2\\)"
+    ],
+    "answer": "D",
+    "id": 634
+  },
+  {
+    "question": "It’s given that $1 \\text{pound (lb)}=16 \\text{ounces (oz)}$. A baker owns a small business. He produces bread in bags. Each bag needs $3.04$ oz of dough. The baker purchased $11.4$ lb of dough. How many bags of bread can be produced? Solution: The baker can produce [ANS] bags of bread with $11.4$ lb of dough.",
+    "answer": [
+      "60"
+    ],
+    "id": 525
+  },
+  {
+    "question": "The graphical depiction of the equation of a multiple regression model with $k$ independent variables $k>1$ is referred to as: [ANS] A. a response surface  B. a plane only when $k=3$  C. a response variable  D. a straight line\nIf all the points for a multiple regression model with two independent variables were on the regression plane, then the multiple coefficient of determination would equal: [ANS] A. any number between 0 and 2  B. 0  C. 1  D. 2, since there are two independent variables",
+    "answer": [
+      "A",
+      "C"
+    ],
+    "id": 1104
+  },
+  {
+    "question": "Which of the following is useful for qualitative data? [ANS] A. Dot plot  B. Histogram  C. Bar graph  D. None of the above",
+    "answer": [
+      "C"
+    ],
+    "id": 520
+  },
+  {
+    "question": "The radiator in a car is filled with a solution of 75 per cent antifreeze and 25 per cent water. The manufacturer of the antifreeze suggests that for summer driving, optimal cooling of the engine is obtained with only 50 per cent antifreeze. If the capacity of the raditor is 4.2 liters, how much coolant (in liters) must be drained and replaced with pure water to reduce the antifreeze concentration to 50 per cent? [ANS]",
+    "answer": [
+      "1.4"
+    ],
+    "id": 163
+  },
+  {
+    "question": "Check all numbers which are equivalent to $7.6$ [ANS] A. $7.600$  B. $7.006$  C. $7.60$  D. $7.06$",
+    "answer": [
+      "AC"
+    ],
+    "id": 774
+  },
+  {
+    "question": "The voltage V across a charged capacitor is given by $V(t)=6 e^{-0.5 t}$ where t is in seconds.\n(a) What is the voltage after 4 seconds? [ANS] volts (round to the nearest 0.001 volts)\n(b) When will the voltage be 1? In [ANS] seconds (round to the nearest 0.01 sec.)\n(c) By what percent does the voltage decrease each second? [ANS] \\% (round to the nearest 0.001\\%)",
+    "answer": [
+      "0.812",
+      "3.58",
+      "39.347"
+    ],
+    "id": 651
+  },
+  {
+    "question": "Find the arc length of y = x^{-1} over the interval [1,2] using the Simpson's Rule S_8.",
+    "options": [
+      "0.932",
+      "1.232",
+      "2.032",
+      "1.732",
+      "1.032",
+      "1.332",
+      "1.132",
+      "0.832",
+      "1.532",
+      "2.132"
+    ],
+    "answer": "G",
+    "id": 340
+  },
+  {
+    "question": "Let $C=f(q)=350+0.2 q$ give the cost in dollars to manufacture $q$ kg of a chemical. a) Which of the following statement(s) correctly explain the meaning of $f^{-1}(C)$? Check all that apply. [ANS] A. The number of kgs. of chemical that can be manufactured for each 1 dollar spent.  B. The cost of manufacturing $C$ kgs. the chemical.  C. The number of kgs. of the chemical someone can purchase with $C$ dollars.  D. The cost of manufacturing one kg. of the chemical.  E. The number of kgs. of the chemical that can be manufactured with $C$ dollars.  F. None of the above\n(b) Find a formula for $f^{-1}(C)=$ [ANS]",
+    "answer": [
+      "E",
+      "(C-350)/0.2"
+    ],
+    "id": 1002
+  },
+  {
+    "question": "It is known that the number of calls received by the paging station within the time interval $[ 0, t )$ $\\{N(t), t \\geq 0 \\}$ follows a Poisson process, with an average of 2 calls received per minute. Given that 5 calls are received in the time interval $[ 0, 3 )$, find the probability of receiving 3 calls in the time interval $[ 0, 2 )$ is ().",
+    "options": [
+      "$$\n\\frac{7 2} {2 4 9}\n$$",
+      "$$\n\\frac{5 4} {2 3 3}\n$$",
+      "$$\n\\frac{8 0} {2 4 3}\n$$",
+      "$$\n\\frac{4 7} {2 5 3}\n$$",
+      "$$\n\\frac{9 1} {2 4 1}\n$$",
+      "$$\n\\frac{6 8} {2 4 5}\n$$",
+      "$$\n\\frac{2 3} {2 4 7}\n$$",
+      "$$\n\\frac{1 2} {2 5 3}\n$$",
+      "$$\n\\frac{8 9} {2 2 3}\n$$",
+      "$$\n\\frac{3 5} {4 4 3}\n$$"
+    ],
+    "answer": "C",
+    "id": 142
+  },
+  {
+    "question": "As dry air moves upward, it expands and in so doing cools at a rate of about $1^{0} C$ for 100m rise, up to about 12 km. a) If the ground temperature is $23 ^{0}$, write a formula for the temperature at height x km.\nAnswer: [ANS]\nb) What range of temperature can be expected if a plane takes off and reaches a maximum height of 8 km.Write answer in interval notation.\nAnswer: [ANS]",
+    "answer": [
+      "23-10*x",
+      "[-57,23]"
+    ],
+    "id": 1080
+  },
+  {
+    "question": "You are taking a road trip in a car without A/C. The temperture in the car is 104 degrees F. You buy a cold pop at a gas station. Its initial temperature is 45 degrees F. The pop's temperature reaches 60 degrees F after 32 minutes. Given that \\frac{T-A}{T_0-A}=e^{-kt} where $T=$ the temperature of the pop at time t. $T_0=$ the initial temperature of the pop. $A=$ the temperature in the car. $k=$ a constant that corresponds to the warming rate. and $t=$ the length of time that the pop has been warming up.\nHow long will it take the pop to reach a temperature of 78.75 degrees F? It will take [ANS] minutes.",
+    "answer": [
+      "92.5821168498253"
+    ],
+    "id": 693
+  }
+]
