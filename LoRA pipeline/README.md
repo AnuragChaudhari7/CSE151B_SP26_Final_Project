@@ -59,5 +59,4 @@ python scripts/03_evaluate.py --split test
 | Type | Example answer | How it's scored |
 |------|----------------|-----------------|
 | Multiple choice | `"C"` or `"H"` | Letter match |
-| Multi-part fill-in | `["64.71", "11.74"]` | All parts must match |
-| Single value | `"8.10183"` | Numeric normalisation (8.0 == 8) |
+| Free-response | `["64.71", "11.74"]` | All parts must match with numerical normalization (8.0 == 8)|
