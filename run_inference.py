@@ -500,7 +500,7 @@ def run_inference(
 
     sampling_params = SamplingParams(
         max_tokens=16384,
-        temperature=0.0,
+        temperature=0.25,
         presence_penalty=0.0,
     )
 
