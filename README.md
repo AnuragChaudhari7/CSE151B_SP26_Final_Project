@@ -20,21 +20,19 @@ Note: If attempting to run any files found in folders `all_sft/` or `experiment_
 Using an A5000 GPU, supervised fine-tuning took approximately 14 hours on 16k_max_openr1_math_7_5k_stratified.jsonl, our synthetic dataset which was generated using stratified sampling from the Open-R1 dataset. Our stratified data keeps the ratio of MCQs to FRQs as well as the distribution of question categories (e.g., algebra, calculus, etc.) the same as public.jsonl, making it suitable for training. For our final submission, however, we opted to use the baseline model with tuned hyperparameters. Running our model on public.jsonl for evaluation and private.jsonl for our final inference took 3-4 hours on each dataset.
 
 ## Inference
-
-The most important additional downloads:
-
-    python -m pip install torch --index-url https://download.pytorch.org/whl/cu118
-    python -m pip install transformers tqdm numpy
-    python -m pip install vllm==0.19.1
-    python -m pip install antlr4-python3-runtime==4.11.1
-
-Inference should be done using A5000 or L40S GPUs. We set up the virtual environment as follows:
+Inference is to be run on a **Datahub pod using either an A5000 or l40s GPU**. Setup the .venv as follows:
 
     python3 -m venv .venv
     source .venv/bin/activate
     pip install --upgrade pip
     pip install -r requirements.txt
 
+Should requirements.txt cause import errors, create a new python .venv and install the following packages:
+
+    python -m pip install torch --index-url https://download.pytorch.org/whl/cu118
+    python -m pip install transformers tqdm numpy
+    python -m pip install vllm==0.19.1
+    python -m pip install antlr4-python3-runtime==4.11.1
 The simplest way to run with all defaults (baseline Qwen model, data/private.jsonl input, output to results/):
 
     python run_inference.py
