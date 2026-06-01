@@ -14,6 +14,8 @@ The notebook covers environment setup, inference with Qwen3-4B-Thinking (INT8), 
 | `data/public.jsonl` | Public dataset with ground-truth answers |
 | `results/` | Output JSONL files written at runtime |
 
+Note: If attempting to run any files found in folders `all_sft/` or `experiment_notebooks/`, be advised that these files have all changed locations within the repository. As such, certain relative paths or variables may not have been updated correctly and may or may not function as they did during experimentation and model training. These files are not necessary for replication, testing, and inference.
+
 
 ## Runtime
 
