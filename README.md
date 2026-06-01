@@ -1,4 +1,4 @@
-# git_commitment_issues: Experiments in LLM Mathematical Reasoning
+# Experiments in LLM Mathematical Reasoning
 
 ## Contents
 
