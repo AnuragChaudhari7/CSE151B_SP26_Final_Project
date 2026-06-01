@@ -53,7 +53,7 @@ from apply_bandaid import apply_bandaid
 # Swap to "anuragc14653/qwen_sft_fixed" to run the merged SFT model.
 MODEL_PATH  = "Qwen/Qwen3-4B-Thinking-2507"
 DATA_PATH   = "data/private.jsonl"
-OUTPUT_PATH = "results/run_inference_results_temp_0_25.csv"
+OUTPUT_PATH = "results/run_inference_results_temp_0_00.csv" # Adjust based on what temperature is used.
 GPU_ID      = "0"
 
 
@@ -481,7 +481,7 @@ def run_inference(
 
     sampling_params = SamplingParams(
         max_tokens=16384,
-        temperature=0.25,
+        temperature=0,
         presence_penalty=0.0,
     )
 
