@@ -1,4 +1,6 @@
-# Experiments in LLM Mathematical Reasoning
+# Pushing the Boundary of LLM Mathematical Reasoning
+
+In this repository, you can find the various methods our team used to enhance the mathematical reasoning abilities of the Qwen/Qwen3-4B-Thinking-2507 small language model as a part of the CSE 151B Spring 2026 Competition.
 
 ## Contents
 
