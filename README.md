@@ -17,7 +17,7 @@ The notebook covers environment setup, inference with Qwen3-4B-Thinking (INT8), 
 
 ## Runtime
 
-Model training took approximately \[training time\] hours (16k_max_openr1_math_7_5k_stratified.jsonl) on a \[type\] GPU. Running our trained model on public.jsonl for evaluation and private.jsonl for our final inference took 2 hours on each dataset.
+Using a \[type\] GPU, model training took approximately \[training time\] hours on 16k_max_openr1_math_7_5k_stratified.jsonl, our synthetic dataset which was generated using stratified sampling from the Open-R1 dataset. Our stratified data keeps the ratio of MCQs to FRQs as well as the distribution of question categories (e.g., algebra, calculus, etc.) the same as public.jsonl, making it suitable for training. Running our trained model on public.jsonl for evaluation and private.jsonl for our final inference took 2 hours on each dataset.
 
 ## Inference
 
