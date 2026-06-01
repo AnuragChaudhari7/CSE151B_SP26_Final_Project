@@ -19,9 +19,6 @@ The notebook covers environment setup, inference with Qwen3-4B-Thinking (INT8), 
 
 Model training took approximately \[training time\] hours (16k_max_openr1_math_7_5k_stratified.jsonl) on a \[type\] GPU. Running our trained model on public.jsonl for evaluation and private.jsonl for our final inference took 2 hours on each dataset.
 
-## Setup
-
-
 ## Inference
 
 The simplest way to run with all defaults (baseline Qwen model, data/private.jsonl input, output to results/):
@@ -43,19 +40,19 @@ To call it with custom arguments:
         gpu_id="0",
     )
 
-Parameters:
+Where:
 
-  model_path   - (Default: "Qwen/Qwen3-4B-Thinking-2507")
-
-  data_path    - (Default: "data/private.jsonl")
-
-  output_path  - (Default: "results/run_inference_results_temp_0_25.csv" (NEED TO CHANGE NAME))
-                 The output directory is created automatically if it does not exist.
-
-  gpu_id       - (Default: "0")
-                 GPU index passed to CUDA_VISIBLE_DEVICES.
+| Parameter | Description |
+|---|---|
+| `model_path` | (Default: "Qwen/Qwen3-4B-Thinking-2507") |
+| `data_path` | (Default: "data/private.jsonl") |
+| `output_path` | (Default: "results/run_inference_results_temp_0_25.csv" (NEED TO CHANGE NAME)) <br> The output directory is created automatically if it does not exist. |
+| `gpu_id` | (Default: "0") <br> GPU index passed to CUDA_VISIBLE_DEVICES. |
+                 
 
 The following modules must be present in the same directory:
 
-  apply_bandaid.py  - Fixes multiple boxed{} and box-inside-think formatting issues.
-  judger.py         - Required only when running on the public (labeled) dataset.
+| Prerequisite | Description |
+|---|---|
+| `apply_bandaid.py` | Fixes multiple boxed{} and box-inside-think formatting issues. |
+| `judger.py` | Required only when running on the public (labeled) dataset. |
