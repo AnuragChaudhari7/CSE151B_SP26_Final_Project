@@ -8,7 +8,7 @@ from trl import SFTTrainer, SFTConfig
 
 MODEL_ID = "Qwen/Qwen3-4B-Thinking-2507"
 OUTPUT_DIR = "./sft_checkpoints"
-DATA_PATH = "data/sft_train_fixed.jsonl" 
+DATA_PATH = "../data/sft_train_fixed.jsonl" 
 MAX_TOKENS = 8192
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_ID)
