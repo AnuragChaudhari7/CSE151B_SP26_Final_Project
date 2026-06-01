@@ -15,8 +15,8 @@ from apply_bandaid import apply_bandaid
 # params
 MODEL_PATH = "Qwen/Qwen3-4B-Thinking-2507"
 REPO_PATH = "anuragc14653/qwen_sft"
-DATA_PATH = "data/public.jsonl" 
-OUTPUT_PATH = "results/baseline_results_temp_0_few_shot.csv"
+DATA_PATH = "../data/public.jsonl" 
+OUTPUT_PATH = "../results/baseline_results_temp_0_few_shot.csv"
 GPU_ID = "0"
 
 
