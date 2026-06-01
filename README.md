@@ -1,4 +1,4 @@
-# CSE 151B Competition — Starter Code
+# git_commitment_issues: Experiments in LLM Mathematical Reasoning
 
 Open **`starter_code_cse151b_comp.ipynb`** to get started.
 
