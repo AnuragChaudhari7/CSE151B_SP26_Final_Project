@@ -1,23 +1,21 @@
 """
-run_inference.py
+Inference script using the baseline model, with a layered
+post-processing pipeline and error analysis.
 
-Inference script using the baseline Qwen model, with a layered
-post-processing pipeline and detailed error analysis.
+Post-processing pipeline:
 
-Post-processing pipeline (applied in order)
-
-  1. apply_bandaid()       — Issue B: multiple \\boxed{} after </think> → merged
+  apply_bandaid()       — Issue B: multiple \\boxed{} after </think> → merged
                            — Issue D: \\boxed{} only inside <think> → moved after
-  2. fix_thousands_sep()   — "105,950" → "105950" inside \\boxed{}
+  fix_thousands_sep()   — "105,950" → "105950" inside \\boxed{}
                              The judger's split_by_comma() treats a thousands-
                              separator comma the same as a multi-answer comma,
                              so "105,950" becomes ['105','950'] → count mismatch.
-  3. fix_decimal_precision()
+  fix_decimal_precision()
                            — Decimal with < 6 decimal places → try to extend from
                              the response text, or convert to an exact LaTeX fraction.
                              Judger uses round(gold, 6) then 1e-8 relative tolerance,
                              so "0.33" fails where "0.333333" or "\\frac{1}{3}" passes.
-  4. Kaggle safety         — \\boxed{} inside <think> is sanitised to boxed{}
+  Kaggle safety         — \\boxed{} inside <think> is sanitised to boxed{}
 
 Error categories tracked per response
 
