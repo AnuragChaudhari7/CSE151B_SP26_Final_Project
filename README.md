@@ -32,10 +32,10 @@ To call it with custom arguments:
 
     from run_inference import run_inference
 
-    # Baseline model (default)
+    # Baseline model
     run_inference()
 
-    # Custom data/output paths or GPU
+    # Custom paths or GPU
     run_inference(
         model_path="Qwen/Qwen3-4B-Thinking-2507",
         data_path="data/public.jsonl",
@@ -54,8 +54,6 @@ Parameters:
 
   gpu_id       - (Default: "0")
                  GPU index passed to CUDA_VISIBLE_DEVICES.
-
-Prerequisites
 
 The following modules must be present in the same directory:
 
