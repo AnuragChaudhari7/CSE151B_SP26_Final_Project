@@ -21,6 +21,13 @@ Using an A5000 GPU, supervised fine-tuning took approximately 14 hours on 16k_ma
 
 ## Inference
 
+The most important additional downloads:
+
+    python -m pip install torch --index-url https://download.pytorch.org/whl/cu118
+    python -m pip install transformers tqdm numpy
+    python -m pip install vllm==0.19.1
+    python -m pip install antlr4-python3-runtime==4.11.1
+
 Inference should be done using A5000 or L40S GPUs. We set up the virtual environment as follows:
 
     python3 -m venv .venv
