@@ -23,6 +23,13 @@ Using an A5000 GPU, supervised fine-tuning took approximately 14 hours on 16k_ma
 
 ## Inference
 
+Inference should be done using A5000 or L40S GPUs. We set up the virtual environment as follows:
+
+    python3 -m venv .venv
+    source .venv/bin/activate
+    pip install --upgrade pip
+    pip install -r requirements.txt
+
 The simplest way to run with all defaults (baseline Qwen model, data/private.jsonl input, output to results/):
 
     python run_inference.py
